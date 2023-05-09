@@ -1,0 +1,29 @@
+body {
+  background-color: #f0f0f0;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+section main {
+  background-color: #fff;
+  width: 320px;
+  aspect-ratio: 1/2;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+section main h1 {
+  margin: 2rem 0 0 0;
+  font-size: 2rem;
+  text-align: center;
+}
