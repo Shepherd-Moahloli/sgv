@@ -1,5 +1,5 @@
 body {
-  background-color: #f0f0f0;
+  background-color: #ddd;
   color: #000;
   margin: 0;
   padding: 0;
@@ -18,8 +18,8 @@ section main {
   background-color: #fff;
   width: 320px;
   aspect-ratio: 1/2;
-  padding: 1rem;
-  border-radius: 1rem;
+  /* padding: 1rem;
+  border-radius: 1rem;*/
 }
 
 section main h1 {
